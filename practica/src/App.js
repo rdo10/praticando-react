@@ -1,15 +1,13 @@
 
 import './App.css';
 
-import Home from './components/home';
+import Data from './components/api';
 
 function App() {
   return (
     <div className="App">
      <h1>Trabajando  con react js</h1>
-     <Home nombre="jose"/>
-     <Home nombre="Manuel"/>
-     <Home nombre="Victoria"/>
+     <Data/>
 
     </div>
   );
