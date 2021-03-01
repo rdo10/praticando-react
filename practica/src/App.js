@@ -7,7 +7,10 @@ function App() {
   return (
     <div className="App">
      <h1>Trabajando  con react js</h1>
-     <Home></Home>
+     <Home nombre="jose"/>
+     <Home nombre="Manuel"/>
+     <Home nombre="Victoria"/>
+
     </div>
   );
 }
