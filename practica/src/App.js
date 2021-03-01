@@ -1,12 +1,13 @@
 
 import './App.css';
-import Contador from './components/contador';
+
+import Listado  from './components/list';
 
 function App() {
   return (
     <div className="App">
-     <h1>Trabajando  con react</h1>
-     <Contador></Contador>
+     <h1>Trabajando  con react js</h1>
+     <Listado></Listado>
     </div>
   );
 }
