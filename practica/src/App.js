@@ -1,13 +1,13 @@
 
 import './App.css';
 
-import Listado  from './components/list';
+import Home from './components/home';
 
 function App() {
   return (
     <div className="App">
      <h1>Trabajando  con react js</h1>
-     <Listado></Listado>
+     <Home></Home>
     </div>
   );
 }
