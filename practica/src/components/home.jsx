@@ -5,6 +5,7 @@ function main(){
     return (
         <Fragment>
          <h1>pagina principal</h1>
+
          <p>{saludo}</p>
         </Fragment>
     )
