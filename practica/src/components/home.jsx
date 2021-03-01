@@ -1,5 +1,5 @@
 import React from 'react';
-import React,{Fragment} from 'react';
+import {Fragment} from 'react';
 function main(){
     let saludo = "Hola usuario bienvenido";
     return (

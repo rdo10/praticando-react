@@ -1,12 +1,12 @@
 
 import './App.css';
-import Main from './components/home';
+import Contador from './components/contador';
 
 function App() {
   return (
     <div className="App">
      <h1>Trabajando  con react</h1>
-     <Main></Main>
+     <Contador></Contador>
     </div>
   );
 }
